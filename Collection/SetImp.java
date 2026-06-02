@@ -34,7 +34,9 @@ public class SetImp {
             System.out.println(itr.next());
         }
 
-
+set1.contains(56);
+        
+        System.out.println(set1.contains(56));
 
 
     }
