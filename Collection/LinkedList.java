@@ -26,7 +26,7 @@ public class LinkedList {
         System.out.println(lst.contains("Ansh"));
         //Iterator
         Iterator<String> obj=lst.iterator();
-        while (obj.hasNext())
+        while(obj.hasNext())
         {
             System.out.println(obj.next());
         }
